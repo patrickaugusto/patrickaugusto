@@ -30,21 +30,44 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Back-End:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,maven"/>
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" title="Hibernate" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Front-End:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Banco de Dados:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Controle de Versão:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testes e API:</td>
+    <td>
+      <img height="40" src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white" alt="JUnit" title="JUnit" />
+      <img height="40" src="https://skillicons.dev/icons?i=postman" />
+      <img height="40" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" title="Swagger" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,intellij"/></td>
+  </tr>
+</table>
+
 
 ---
 
