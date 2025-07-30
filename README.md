@@ -66,7 +66,6 @@
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=vscode" />
-      <img height="40" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
     </td>
   </tr>
 </table>
