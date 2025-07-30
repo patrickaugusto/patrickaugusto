@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Patrick Augusto</h1>
 
 <p align="center">
-  Desenvolvedor Java Jr. apaixonado por tecnologia, backend, e soluções que realmente fazem a diferença.
+  Desenvolvedor FullStack apaixonado por tecnologia e soluções que realmente fazem a diferença.
 </p>
 
 <div align="center">
