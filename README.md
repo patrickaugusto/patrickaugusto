@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Patrick Augusto</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-
-- 📫 How to reach me **trick0augusto@gmail.com**
-
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/patrick-augusto-nascimento" height="30" width="40" /></a>
-</p>
 
 ###
 
