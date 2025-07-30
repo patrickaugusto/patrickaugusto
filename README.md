@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/patrickaugusto">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=patrickaugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickaugusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </a>
   <a href="https://github.com/patrickaugusto">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaugusto&layout=compact&theme=dracula&langs_count=6" />
@@ -44,14 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=patrickaugusto&theme=dracula&hide_border=false" alt="GitHub streak" />
 </p>
 
 ---
